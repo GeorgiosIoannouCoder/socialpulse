@@ -1,4 +1,4 @@
-***NOTE: When visiting this application make sure that you are using the protocol <ins>https</ins> and NOT http otherwise the application will not work!*** 
+***NOTE: When visiting this application make sure that you are using the protocol <ins>https</ins> and NOT http otherwise the application will not work!***
 
 ***NOTE: [SocialPulse](https://github.com/GeorgiosIoannouCoder/socialpulse) is  an extension of [MergeMe](https://github.com/GeorgiosIoannouCoder/mergeme).***
 
