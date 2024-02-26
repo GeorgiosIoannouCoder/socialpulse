@@ -1,6 +1,6 @@
 ***NOTE: When visiting this application make sure that you are using the protocol <ins>https</ins> and NOT http otherwise the application will not work!***
 
-***NOTE: [SocialPulse](https://github.com/GeorgiosIoannouCoder/socialpulse) is  an extension of [MergeMe](https://github.com/GeorgiosIoannouCoder/mergeme).***
+***NOTE: [SocialPulse](https://github.com/GeorgiosIoannouCoder/socialpulse) is  an extension of [MergeMe](https://github.com/GeorgiosIoannouCoder/mergeme). [SocialPulse2](https://github.com/GeorgiosIoannouCoder/socialpulse2) is  an extension of [SocialPulse](https://github.com/GeorgiosIoannouCoder/socialpulse).***
 
 <a name="readme-top"></a>
 
